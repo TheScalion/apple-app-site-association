@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background-color: #FEC801;
+    width: 400px;
+}
